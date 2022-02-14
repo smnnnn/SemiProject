@@ -3,9 +3,10 @@
 
    작가와 소통 가능한 도서 쇼핑몰 '봄숲'.    
    코로나 시대에 온라인 서점에서 작가와 다이렉트로 소통 할 수 있는 공간이 생긴다면 독자들은 줄어든 작가와의 만남이나 팬싸인회에서 오던 갈증을 채울 수 있고, 영세 작가에게는 또 다른 기회의 장이 될 수 있을 것 같아 작가와 소통할수 있는 도서 쇼핑몰을 기획하게 되었습니다.
+   
+<img width="1200" alt="저장" src="https://user-images.githubusercontent.com/86585267/153936039-fb88ebb1-8693-465f-ab11-05a5bf0ad2a1.png">
 
 
-<img width="1275" alt="dddd" src="https://user-images.githubusercontent.com/86585267/153934754-dafa48ac-1ed7-4b2b-b52b-c67933622888.png">
 
 * ## 개발 기간
     2021.09.15 ~ 2021.11.17
@@ -44,4 +45,4 @@
   - [관리자페이지] : 회원 탈퇴신청 관리 기능, 회원 등급 관리 기능, 통계 그래프, 배송환불현황관리, 책 등록, 오늘의 책 등록
 
 * ## 팀 ERD
-   - [click](https://www.erdcloud.com/d/LNg3in7EjpjLvkrvB)
+   - [click here](https://www.erdcloud.com/d/LNg3in7EjpjLvkrvB)
