@@ -45,4 +45,5 @@
   - [관리자페이지] : 회원 탈퇴신청 관리 기능, 회원 등급 관리 기능, 통계 그래프, 배송환불현황관리, 책 등록, 오늘의 책 등록
 
 * ## 팀 ERD
-   - [click here](https://www.erdcloud.com/d/LNg3in7EjpjLvkrvB)
+
+   ![1](https://user-images.githubusercontent.com/86585267/153937993-a8152da8-15d6-447d-b404-d2f6d67fbae6.png)
